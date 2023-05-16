@@ -328,6 +328,16 @@ body{
     width:100%;
     padding: 5vh 0;
   }
+
+  .options h2 {
+    font-weight: 700;
+    font-size: 36px;
+    margin-bottom: 5vh;
+    font-family: var(--font-primary);
+    color: var(--color-primary);
+    display: flex;
+    justify-content: center;
+  }
   
   .options .icon-box {
     text-align: center;
