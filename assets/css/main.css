@@ -60,16 +60,6 @@ body{
     font-size: 22px;
   }
   
-
-  
-  /*--------------------------------------------------------------
-  # Disable aos animation delay on mobile devices
-  --------------------------------------------------------------*/
-  @media screen and (max-width: 768px) {
-    [data-aos-delay] {
-      transition-delay: 0 !important;
-    }
-  }
   
   /*--------------------------------------------------------------
   # Header
@@ -231,7 +221,6 @@ body{
   
   .hero .btn-book-a-table:hover {
     background: #ff65ff;
-    box-shadow: #ff65ff;
   }
   
   @media (max-width: 640px) {
