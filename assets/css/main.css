@@ -523,3 +523,142 @@ body{
 }
   
 
+ /*--------------------------------------------------------------
+  # Burger Page
+  --------------------------------------------------------------*/
+  
+  .burger-hero {
+    background: url(../img/pexels-valeria-boltneva-1639562.webp);
+    background-size: cover;
+    background-position: center;
+    min-height: 60vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+
+  
+  .burger-hero h1 {
+    font-size: 70px;
+    line-height: 90px;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 0px 0px 30px #ff65ff;
+    font-family: var(--font-primary);
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .burger-hero h2 span {
+    color: var(--color-primary);
+  }
+  
+  .burger-hero p {
+    color: #fff;
+    text-shadow: 10px 0px 20px #000;
+    font-weight: 400;
+    margin-bottom: 30px;
+  }
+  
+  
+  @media (max-width: 640px) {
+    .burger-hero h1 {
+      font-size: 36px;
+    }
+  
+  }
+
+  /*--------------------------------------------------------------
+  # Hot Dog Page
+  --------------------------------------------------------------*/
+  
+  .hot-dog-hero {
+    background: url(../img/pexels-polina-tankilevitch-4518644.webp);
+    background-size: cover;
+    background-position: center;
+    min-height: 60vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+
+  
+  .hot-dog-hero h1 {
+    font-size: 70px;
+    line-height: 90px;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 0px 0px 30px #ff65ff;
+    font-family: var(--font-primary);
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .hot-dog-hero h2 span {
+    color: var(--color-primary);
+  }
+  
+  .hot-dog-hero p {
+    color: #fff;
+    text-shadow: 10px 0px 20px #000;
+    font-weight: 400;
+    margin-bottom: 30px;
+  }
+  
+  
+  @media (max-width: 640px) {
+    .hot-dog-hero h1 {
+      font-size: 36px;
+    }
+  
+  }
+
+   /*--------------------------------------------------------------
+  # Chicken Page
+  --------------------------------------------------------------*/
+  
+  .chicken-hero {
+    background: url(../img/pexels-karolina-grabowska-4207676.webp);
+    background-size: cover;
+    background-position: center;
+    min-height: 60vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+
+
+  .chicken-hero h1 {
+    font-size: 70px;
+    line-height: 90px;
+    font-weight: 700;
+    color: #fff;
+    text-shadow: 0px 0px 30px #ff65ff;
+    font-family: var(--font-primary);
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .chicken-hero h2 span {
+    color: var(--color-primary);
+  }
+  
+  .chicken-hero p {
+    color: #fff;
+    text-shadow: 10px 0px 20px #000;
+    font-weight: 400;
+    margin-bottom: 30px;
+  }
+  
+  
+  @media (max-width: 640px) {
+    .chicken-hero h1 {
+      font-size: 36px;
+    }
+  
+  }
