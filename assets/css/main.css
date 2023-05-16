@@ -282,6 +282,7 @@ body{
     display: flex;
     justify-content: center;
     padding:10px;
+    text-align: center;
   }
   
 
@@ -440,7 +441,7 @@ body{
     text-align: center;
     justify-content: center;
     align-items: center;
-    margin-bottom: 10vh;
+    margin-bottom: 2vh;
   }
   
   .form-container{
