@@ -91,9 +91,10 @@ body{
     max-height: 100px;
   }
   
-  .header .btn-book-a-table,
+  .header .btn-book-a-table, 
   .header .btn-book-a-table:focus {
     font-size: 25px;
+    font-family: var(--font-primary);
     color: #fff;
     background: var(--color-primary);
     padding: 15px 40px;
